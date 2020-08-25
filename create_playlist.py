@@ -133,7 +133,7 @@ class CreatePlaylist:
                 song_name = song_name.split(" [")[0]
             elif '|' in str(song_name):
                 song_name = song_name.split(" |")[0]
-            elif 'ft.' in str(song_name):
+            if 'ft.' in str(song_name):
                 song_name = song_name.split("ft.")[0]
             if 'ft.' in str(artist):
                 artist = artist.split("ft.")[0]
