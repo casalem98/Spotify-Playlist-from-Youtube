@@ -9,9 +9,9 @@ Used https://github.com/TheComeUpCode/SpotifyGeneratePlaylist as a start.
 Code differences:
 1. This script does not use the Youtube dl API, and instead webscrapes Youtube's video page source for the information.
 2. This script also gives a result.txt file that reports the total songs detected, total songs added to the Spotify playlist, and lists all the songs that were not transfered.
-3. This script iterates over all json files given from Youtube API, allowing it to go through all Youtube liked videos.
+3. This script iterates over all json files given from Youtube API, allowing it to go through all Youtube liked videos instead of only one page of the json files.
 
 # Detected Bugs
 Unable to identify every music video from Youtube due to different formatting from source page of each music video.
-As of recent has a 70% transfer rate of the detected music.
+As of recent has a 80% transfer rate of the detected music.
 The songs that are not transferred over to Spotify are listed in a results.txt outputted by the program.
