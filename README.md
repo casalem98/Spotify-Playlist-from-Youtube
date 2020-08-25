@@ -24,5 +24,5 @@ results.txt - example results that outputs from program
 
 # Detected Bugs
 Unable to identify every music video from Youtube due to different formatting from source page of each music video.
-As of recent has a 80% transfer rate of the detected music.
+As of recent has a 70% transfer rate of the detected music.
 The songs that are not transferred over to Spotify are listed in a results.txt outputted by the program.
