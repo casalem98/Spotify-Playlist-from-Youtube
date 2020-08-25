@@ -13,8 +13,11 @@ Code differences:
 
 # Files
 create_playlist.py - main code source
+
 client_secret.json - used for the Youtube Data v3 API, contains the api key, client id, etc.
+
 secrets.py - contains api key and sportify user used for the Spotify API
+
 results.txt - example results that outputs from program
 
 # Detected Bugs
