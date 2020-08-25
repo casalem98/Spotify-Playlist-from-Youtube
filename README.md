@@ -26,3 +26,5 @@ results.txt - example results that outputs from program
 Unable to identify every music video from Youtube due to different formatting from source page of each music video.
 As of recent has a 70% transfer rate of the detected music.
 The songs that are not transferred over to Spotify are listed in a results.txt outputted by the program.
+
+There is a way of getting a high percent transfer value by about 10% but it makes the program take longer to process through all the videos, as one of the methods in getting the songs used is looking at the webpage source. Doing this for every song takes too long. 
