@@ -12,6 +12,8 @@ Code differences:
 3. This script iterates over all json files given from Youtube API, allowing it to go through all Youtube liked videos instead of only one page of the json files.
 
 # Files
+To run this program, you must download all the imports used for python.
+
 create_playlist.py - main code source
 
 client_secret.json - used for the Youtube Data v3 API, contains the api key, client id, etc.
